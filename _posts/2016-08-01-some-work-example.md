@@ -1,17 +1,15 @@
 ---
-description: some work example
-dateModified: '2016-08-01T16:15:10.392Z'
-datePublished: '2016-08-01T16:15:11.841Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-01T16:15:18.007Z'
 sourcePath: _posts/2016-08-01-some-work-example.md
 inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+author: []
+via: {}
+dateModified: '2016-08-01T16:15:17.682Z'
+title: ''
+publisher: {}
+description: some work example
+starred: false
+_type: Blurb
 
 ---
 some work example
