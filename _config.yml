@@ -1,0 +1,14 @@
+layout_spectrum: 0.7509704399853945
+typography_spectrum: 0.008048296207562089
+color:
+  brandStrength: 0.19272582978010178
+  lightness: 0.7168831415474415
+  saturation: 0.27625877410173416
+  rhythmicContrast: 0.8966880145017058
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: SPARK
